@@ -1,5 +1,7 @@
 # Machine-Learning-with-Images
 A coursework based on multiple machine learning models and technologies with images.
+## To start with
+Run ```ml.ipynb``` file.
 
 The following two figures are the results from VAE, which are only a small part of this coursework.
 
